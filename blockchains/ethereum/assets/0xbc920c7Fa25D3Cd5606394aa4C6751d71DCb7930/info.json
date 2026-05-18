@@ -1,0 +1,25 @@
+{
+    "name": "K9",
+    "website": "https://k9.finance",
+    "description": "K9 Finance is the liquid staking protocol for the K9 dog-themed DeFi ecosystem.",
+    "explorer": "https://etherscan.io/token/0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+    "type": "ERC20",
+    "symbol": "K9",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/k9finance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/k9finance"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/k9-finance-dao"
+        }
+    ]
+}
